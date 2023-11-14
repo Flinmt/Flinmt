@@ -10,7 +10,7 @@
 
 **Aplicações e dados**
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=SpringBoot&logoColor=007396)
 ![Php](https://img.shields.io/badge/-Php-333333?style=flat&logo=Php&logoColor=007396)
 ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel&logoColor=007396)
@@ -38,6 +38,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=Notion&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
 <br/>
