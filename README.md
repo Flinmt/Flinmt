@@ -1,10 +1,6 @@
-## 💜 Olá, meu nome é <strong>{seu nome}!</strong>
+## 💜 Olá, meu nome é <strong>Vitor José</strong>
 
-> Faça uma breve aprensentação sobre você e a sua área.
-
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
-
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+> Sou um desenvolvedor de software ainda em formação e possuo 1 ano de experiência em desenvolvimento de software que adquiri, principalmente, de projetos universitários, projetos de estudo pessoal e projetos da residência em empresas como Accenture.
 
 ---
 
@@ -27,4 +23,4 @@
 
 ## ⭐ Informações sobre minha conta GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmarcelojr&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Flinmt_icons=true)
