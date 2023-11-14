@@ -1,22 +1,53 @@
-## 💜 Olá, meu nome é <strong>Vitor José</strong>
+![](https://komarev.com/ghpvc/?username=Flinmt&color=006bed)
 
-> Sou um desenvolvedor de software ainda em formação e possuo 1 ano de experiência em desenvolvimento de software que adquiri, principalmente, de projetos universitários, projetos de estudo pessoal e projetos da residência em empresas como Accenture.
+<h3>Sobre mim</h3>
 
----
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando **ANALISE E DESENVOLVIMENTO DE SISTEMAS** no <a href="[link da sua faculdade](https://www.unit.br)">CENTRO UNIVERSITARIO TIRADENTES</a>.
+- 💼 Atualmente busco minha primeira oportunidade de trabalho.
 
-## 🚀 Minhas Skills
+<h3>Minhas Skills</h3>
 
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/><code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
+**Aplicações e dados**
 
----
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=SpringBoot&logoColor=007396)
+![Php](https://img.shields.io/badge/-Php-333333?style=flat&logo=Php&logoColor=007396)
+![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![NextJs](https://img.shields.io/badge/-NextJs-333333?style=flat&logo=NextJs)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=Tailwind3&logoColor=1572B6)
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
+![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+
+**Utilidades**
+
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+
+<br/>
+
+<a href="https://github.com/Flinmt" title="Perfil do Vitor">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Flinmt&theme=dracula&show_icons=true" />
+</a>
+
+<h3>Onde me encontrar</h3>
+
+[![Linkedin](https://img.shields.io/badge/-Flinmt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-jose-lima/)](https://www.linkedin.com/in/vitor-jose-lima/)
+[![Gmail Badge](https://img.shields.io/badge/-vitorlimagerr.profissional@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vitorlimagerr.profissional@gmail.com)](mailto:vitorlimagerr.profissional@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/Flinmt?label=follow&style=social)](https://github.com/Flinmt)
